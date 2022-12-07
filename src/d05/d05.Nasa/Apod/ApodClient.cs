@@ -25,7 +25,6 @@ namespace d05.Nasa.Apod
                           $"&end_date={DateTime.Now.ToString("yyyy-MM-dd", cultureInfo)}";
             var response = _httpClient.GetAsync(request);
             var responseString = await response.Result.Content.ReadAsStringAsync();
-            Console.WriteLine(responseString);
             MediaOfToday[] responseMediaOfToday;
             try
             {
