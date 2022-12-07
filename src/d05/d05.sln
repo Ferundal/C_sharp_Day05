@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "d05.Host", "d05.Host\d05.Host.csproj", "{A6903D6A-A104-4A01-BDF0-C3CA22CF1725}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "d05.Nasa", "d05.Nasa\d05.Nasa.csproj", "{44B111C6-C941-4CBD-8286-E980F27D925D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6903D6A-A104-4A01-BDF0-C3CA22CF1725}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6903D6A-A104-4A01-BDF0-C3CA22CF1725}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6903D6A-A104-4A01-BDF0-C3CA22CF1725}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6903D6A-A104-4A01-BDF0-C3CA22CF1725}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44B111C6-C941-4CBD-8286-E980F27D925D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44B111C6-C941-4CBD-8286-E980F27D925D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44B111C6-C941-4CBD-8286-E980F27D925D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44B111C6-C941-4CBD-8286-E980F27D925D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
